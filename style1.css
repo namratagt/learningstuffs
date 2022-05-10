@@ -1,0 +1,48 @@
+body {
+
+    color: purple;
+    align-content: center;
+
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f1e3c28c;
+    background-image: black url("/internal/p1/bgg2.jpg");
+    height: 0.3px;
+
+}
+
+
+
+
+h3,h1{
+    font-size: 3rem;
+}
+ul,
+section {
+    font-size: 1.3rem;
+    margin: auto;
+    color: black;
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+img {
+    float: right;
+    width: 42%;
+    height: 400px;
+    
+    display: flex;
+    flex-shrink: 4;
+
+    flex-grow: 2;
+    border: black 1px solid;
+}
